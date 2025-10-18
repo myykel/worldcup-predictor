@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.csv
+.DS_Store
+
+# File to ignore
+Resources.txt
+test.ipynb
+
+# Folder to ignore (and everything inside it)
+Dataset/
